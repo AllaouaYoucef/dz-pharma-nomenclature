@@ -113,7 +113,7 @@ function search(q, limit = 20) {
 const fiche = await fetch(`${BASE}/medications/${search('doliprane')[0].i}.json`).then(r => r.json());
 ```
 
-### C# / .NET (MedOrl)
+### C# / .NET
 
 ```csharp
 public sealed record CodedValue(string Code, string Label, string? LabelEn);
