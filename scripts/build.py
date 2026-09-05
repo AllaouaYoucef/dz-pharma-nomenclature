@@ -21,7 +21,7 @@ import shutil
 import sys
 import unicodedata
 from collections import Counter, defaultdict
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -42,6 +42,17 @@ LIST_LABELS = {
     "LISTE II": "Liste II - substance veneneuse, prescription medicale obligatoire",
     "STUPEFIANT": "Stupefiant - prescription sur carnet a souches",
     "PSYCHOTROPE": "Psychotrope - prescription reglementee",
+}
+
+MONTHS_FR = {
+    "JANVIER": 1, "FEVRIER": 2, "MARS": 3, "AVRIL": 4, "MAI": 5, "JUIN": 6,
+    "JUILLET": 7, "AOUT": 8, "SEPTEMBRE": 9, "OCTOBRE": 10, "NOVEMBRE": 11, "DECEMBRE": 12,
+}
+
+# Libelles destines a l'affichage: accentues, contrairement au reste du code.
+MONTHS_FR_LABEL = {
+    1: "janvier", 2: "février", 3: "mars", 4: "avril", 5: "mai", 6: "juin",
+    7: "juillet", 8: "août", 9: "septembre", 10: "octobre", 11: "novembre", 12: "décembre",
 }
 
 CSV_FIELDS = [
@@ -102,6 +113,25 @@ def parse_months(value):
     if re.search(r"\bAN(S|NEE|NEES)?\b", strip_accents(v).upper()):
         n *= 12
     return n
+
+
+def parse_edition(raw):
+    """'30 JUIN 2026' -> date d'arret, libelle de version et code d'edition."""
+    info = {"raw": raw, "date": None, "label": None, "code": None, "dateLabel": None}
+    if not raw:
+        return info
+    m = re.match(r"(\d{1,2})\s+([A-Z]+)\s+(\d{4})", strip_accents(raw).upper())
+    if not m:
+        return info
+    day, month_name, year = int(m.group(1)), m.group(2), int(m.group(3))
+    month = MONTHS_FR.get(month_name)
+    if not month:
+        return info
+    info["date"] = date(year, month, day).isoformat()
+    info["label"] = f"{MONTHS_FR_LABEL[month]} {year}"
+    info["dateLabel"] = f"{day} {MONTHS_FR_LABEL[month]} {year}"
+    info["code"] = f"{year}-{month:02d}"
+    return info
 
 
 def coded(code, labels):
@@ -254,8 +284,10 @@ def main() -> int:
     base_url = (base_url or "").rstrip("/")
 
     rows, edition = read_rows(source)
+    edition_info = parse_edition(edition)
     records = build_records(rows)
-    print(f"{len(records)} medicaments lus depuis {source.name} (edition: {edition})")
+    print(f"{len(records)} medicaments lus depuis {source.name} "
+          f"(version {edition_info['label'] or edition}, arretee au {edition})")
 
     for sub in ("medications", "dci", "laboratories"):
         shutil.rmtree(api / sub, ignore_errors=True)
@@ -354,7 +386,14 @@ def main() -> int:
     meta = {
         "name": "Nomenclature Nationale des Produits Pharmaceutiques - Algerie",
         "apiVersion": "v1",
-        "edition": edition,
+        "edition": edition_info["label"] or edition,
+        "editionDate": edition_info["date"],
+        "editionCode": edition_info["code"],
+        "editionRaw": edition,
+        "editionStatement": (
+            f"Version {edition_info['label']}, données arrêtées au "
+            f"{edition_info['dateLabel']}." if edition_info["label"] else None
+        ),
         "sourceFile": source.name,
         "sourceChecksumSha256": hashlib.sha256(source.read_bytes()).hexdigest(),
         "publisher": ("Ministere de l'Industrie Pharmaceutique - Direction de la Pharmaco-economie, "

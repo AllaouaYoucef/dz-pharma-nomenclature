@@ -5,7 +5,22 @@ Pharmaceutiques à usage de la médecine humaine* publiée par le Ministère de 
 Pharmaceutique (Direction de la Pharmaco-économie, des Activités Pharmaceutiques et de la
 Régulation).
 
-**5 381 médicaments · 1 375 DCI · 518 laboratoires · édition au 30 juin 2026**
+## 📅 Version juin 2026
+
+Données issues de la nomenclature **arrêtée au 30 juin 2026**, dernière édition publiée par le
+Ministère à ce jour. Elle contient **5 381 médicaments · 1 375 DCI · 518 laboratoires**.
+
+La version publiée est toujours lisible par programme dans `/v1/meta.json` :
+
+```json
+{
+  "edition": "juin 2026",
+  "editionDate": "2026-06-30",
+  "editionCode": "2026-06",
+  "editionRaw": "30 JUIN 2026",
+  "editionStatement": "Version juin 2026, données arrêtées au 30 juin 2026."
+}
+```
 
 > 📍 **Base URL** : `https://allaouayoucef.github.io/dz-pharma-nomenclature`
 > 🌐 **Documentation & recherche en ligne** : https://allaouayoucef.github.io/dz-pharma-nomenclature/
@@ -21,7 +36,7 @@ disponibilité alignée sur celle de GitHub.
 
 | Ressource | Chemin | Détail |
 |---|---|---|
-| Métadonnées | `/v1/meta.json` | Édition, empreinte de la source, compteurs, liste des endpoints |
+| Métadonnées | `/v1/meta.json` | Version publiée, date d'arrêt, empreinte de la source, compteurs, endpoints |
 | Tous les médicaments | `/v1/medications.json` | Tableau complet (~5 Mo) |
 | Index compact | `/v1/medications.min.json` | Champs abrégés + clé de recherche normalisée (~1,4 Mo) |
 | NDJSON | `/v1/medications.ndjson` | Une fiche JSON par ligne (import en base) |
@@ -168,8 +183,9 @@ builder.Services.AddHttpClient<NomenclatureClient>(c =>
 **Recommandation d'intégration** : ne pas appeler l'API à chaque prescription. Synchroniser
 `v1/medications.json` dans une table locale (job quotidien ou hebdomadaire), et n'utiliser le
 réseau que pour détecter un changement d'édition. `v1/meta.json` expose
-`sourceChecksumSha256` et `generatedAt` : si ces valeurs n'ont pas bougé, aucune resynchronisation
-n'est nécessaire. GitHub Pages gère également `ETag` / `If-None-Match` (réponse `304`).
+`editionCode` (`2026-06`), `sourceChecksumSha256` et `generatedAt` : si ces valeurs n'ont pas bougé,
+aucune resynchronisation n'est nécessaire. Stocker `editionCode` avec les données importées permet
+d'afficher la version de la nomenclature en vigueur dans l'application. GitHub Pages gère également `ETag` / `If-None-Match` (réponse `304`).
 
 ### Import en base (SQL Server / PostgreSQL)
 
@@ -185,7 +201,9 @@ curl -s https://allaouayoucef.github.io/dz-pharma-nomenclature/v1/medications.nd
 
 ## Mettre à jour la nomenclature
 
-La nomenclature est rééditée périodiquement par le Ministère. Pour publier une nouvelle édition :
+La nomenclature est rééditée périodiquement par le Ministère (généralement en juin et en décembre).
+La version, sa date d'arrêt et son code sont déduits automatiquement de l'en-tête du CSV officiel —
+aucune saisie manuelle. Pour publier une nouvelle édition :
 
 1. Déposer le nouveau CSV dans `data/` (ex. `data/nomenclature-2026-12.csv`).
 2. Régénérer l'API :

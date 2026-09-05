@@ -62,12 +62,16 @@ def main() -> int:
     if csv_rows != len(meds):
         errors.append("medications.csv: nombre de lignes incoherent")
 
+    if not meta.get("editionDate"):
+        errors.append("meta.editionDate absent: la date d'arret de la nomenclature n'a pas ete detectee")
+
     if errors:
         for e in errors:
             print(f"ECHEC: {e}", file=sys.stderr)
         return 1
 
-    print(f"OK: {len(meds)} medicaments, edition {meta['edition']}, "
+    print(f"OK: {len(meds)} medicaments, version {meta['edition']} "
+          f"(arretee au {meta.get('editionDate')}), "
           f"{meta['counts']['dci']} DCI, {meta['counts']['laboratories']} laboratoires")
     return 0
 

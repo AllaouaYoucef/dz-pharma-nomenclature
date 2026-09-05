@@ -1,11 +1,15 @@
 {
   "name": "Nomenclature Nationale des Produits Pharmaceutiques - Algerie",
   "apiVersion": "v1",
-  "edition": "30 JUIN 2026",
+  "edition": "juin 2026",
+  "editionDate": "2026-06-30",
+  "editionCode": "2026-06",
+  "editionRaw": "30 JUIN 2026",
+  "editionStatement": "Version juin 2026, données arrêtées au 30 juin 2026.",
   "sourceFile": "nomenclature-2026-06.csv",
   "sourceChecksumSha256": "0b6f1cc8afcc512d555815ea695d4fb720cd29787e4eb5216c58dd12724ebddf",
   "publisher": "Ministere de l'Industrie Pharmaceutique - Direction de la Pharmaco-economie, des Activites Pharmaceutiques et de la Regulation",
-  "generatedAt": "2026-09-05T07:32:28+00:00",
+  "generatedAt": "2026-09-05T07:54:14+00:00",
   "license": "Donnees publiques officielles redistribuees a titre de reference - voir DISCLAIMER.md",
   "counts": {
     "medications": 5381,

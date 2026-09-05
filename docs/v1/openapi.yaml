@@ -5,6 +5,7 @@ info:
   description: >
     API statique (fichiers JSON servis par GitHub Pages) exposant la Nomenclature Nationale
     des Produits Pharmaceutiques à usage de la médecine humaine.
+    Version publiée : juin 2026 (données arrêtées au 30 juin 2026).
     Lecture seule, sans authentification. Voir DISCLAIMER.md : données de référence
     documentaire, ne constituant pas un avis médical.
   license:

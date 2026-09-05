@@ -38,7 +38,9 @@
     color: var(--accent); background: var(--accent-soft); padding: 4px 10px; border-radius: 999px;
     font-weight: 600;
   }
+  .tag.version { background: transparent; border: 1px solid var(--border); color: var(--muted); margin-left: 6px; }
   h1 { font-size: clamp(26px, 4vw, 38px); line-height: 1.2; margin: 16px 0 8px; }
+  p.edition { margin: 14px 0 0; font-size: 14px; font-weight: 600; color: var(--accent); }
   h2 { font-size: 20px; margin: 44px 0 12px; }
   h3 { font-size: 15px; margin: 24px 0 8px; }
   p.lead { color: var(--muted); font-size: 17px; margin: 0; max-width: 62ch; }
@@ -89,12 +91,14 @@
 <header>
   <div class="wrap">
     <span class="tag">API publique · v1</span>
+    <span class="tag version" id="edition-badge">Version juin 2026</span>
     <h1>Nomenclature Nationale des Médicaments — Algérie</h1>
     <p class="lead">
       L'intégralité de la nomenclature nationale des produits pharmaceutiques à usage de la
       médecine humaine, exposée en JSON statique. Aucune clé d'API, aucune limite d'appel,
       CORS ouvert — servi par GitHub Pages.
     </p>
+    <p class="edition" id="edition-statement">Version juin 2026, données arrêtées au 30 juin 2026.</p>
     <div class="stats" id="stats"></div>
   </div>
 </header>
@@ -202,8 +206,15 @@ function search(q) {
     $('#stats').innerHTML = [
       ['Médicaments', c.medications], ['DCI', c.dci], ['Laboratoires', c.laboratories],
       ['Formes', c.forms], ['Pays', c.countries],
-    ].map(([k, v]) => `<div class="stat"><b>${v.toLocaleString('fr-FR')}</b><span>${k}</span></div>`).join('');
-    $('#edition').textContent = `Édition au ${meta.edition}. Généré le ${meta.generatedAt.slice(0, 10)}.`;
+    ].map(([k, v]) => `<div class="stat"><b>${v.toLocaleString('fr-FR')}</b><span>${k}</span></div>`).join('')
+      + `<div class="stat"><b>${(meta.edition || '').replace(/^./, ch => ch.toUpperCase())}</b><span>Version</span></div>`;
+    const version = meta.edition ? meta.edition.replace(/^./, c => c.toUpperCase()) : '';
+    $('#edition-badge').textContent = `Version ${meta.edition}`;
+    const fr = (iso) => iso.slice(0, 10).split('-').reverse().join('/');
+    $('#edition-statement').textContent =
+      `${meta.editionStatement || ''} Fichiers régénérés le ${fr(meta.generatedAt)}.`;
+    $('#edition').textContent = `Version ${version} de la nomenclature`
+      + (meta.editionDate ? ` (arrêtée au ${fr(meta.editionDate)}).` : '.');
 
     INDEX = await (await fetch('v1/medications.min.json')).json();
     INDEX.forEach(m => { m.s = norm(m.s); });
