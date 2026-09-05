@@ -1,0 +1,36 @@
+{
+  "types": [
+    {
+      "code": "GE",
+      "label": "Generique",
+      "labelEn": "Generic",
+      "count": 4336
+    },
+    {
+      "code": "RE",
+      "label": "Reference (princeps)",
+      "labelEn": "Reference (originator)",
+      "count": 944
+    },
+    {
+      "code": "BIO",
+      "label": "Produit biologique / biosimilaire",
+      "labelEn": "Biological / biosimilar",
+      "count": 54
+    }
+  ],
+  "origins": [
+    {
+      "code": "F",
+      "label": "Fabrique localement",
+      "labelEn": "Locally manufactured",
+      "count": 4005
+    },
+    {
+      "code": "I",
+      "label": "Importe",
+      "labelEn": "Imported",
+      "count": 1376
+    }
+  ]
+}

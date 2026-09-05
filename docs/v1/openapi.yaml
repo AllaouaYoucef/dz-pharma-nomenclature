@@ -1,0 +1,165 @@
+openapi: 3.1.0
+info:
+  title: Nomenclature Nationale des Médicaments - Algérie
+  version: "1.0.0"
+  description: >
+    API statique (fichiers JSON servis par GitHub Pages) exposant la Nomenclature Nationale
+    des Produits Pharmaceutiques à usage de la médecine humaine.
+    Lecture seule, sans authentification. Voir DISCLAIMER.md : données de référence
+    documentaire, ne constituant pas un avis médical.
+  license:
+    name: MIT (code) / information publique (données)
+servers:
+  - url: https://allaouayoucef.github.io/dz-pharma-nomenclature
+paths:
+  /v1/meta.json:
+    get:
+      summary: Métadonnées de l'édition publiée
+      responses:
+        "200": { description: OK }
+  /v1/medications.json:
+    get:
+      summary: Toutes les fiches médicament
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Medication"
+  /v1/medications.min.json:
+    get:
+      summary: Index compact pour recherche et autocomplétion
+      responses:
+        "200": { description: OK }
+  /v1/medications/{id}.json:
+    get:
+      summary: Fiche médicament par identifiant
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema: { type: string }
+          example: 352-01-a-003-06-22
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Medication"
+        "404": { description: Identifiant inconnu }
+  /v1/dci/index.json:
+    get:
+      summary: Index des dénominations communes internationales
+      responses:
+        "200": { description: OK }
+  /v1/dci/{slug}.json:
+    get:
+      summary: Spécialités rattachées à une DCI
+      parameters:
+        - name: slug
+          in: path
+          required: true
+          schema: { type: string }
+          example: paracetamol
+      responses:
+        "200": { description: OK }
+        "404": { description: DCI inconnue }
+  /v1/laboratories/index.json:
+    get:
+      summary: Index des laboratoires détenteurs de la décision d'enregistrement
+      responses:
+        "200": { description: OK }
+  /v1/laboratories/{slug}.json:
+    get:
+      summary: Produits enregistrés par un laboratoire
+      parameters:
+        - name: slug
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200": { description: OK }
+        "404": { description: Laboratoire inconnu }
+  /v1/forms.json:
+    get:
+      summary: Formes galéniques et effectifs
+      responses:
+        "200": { description: OK }
+  /v1/countries.json:
+    get:
+      summary: Pays des laboratoires et effectifs
+      responses:
+        "200": { description: OK }
+  /v1/lists.json:
+    get:
+      summary: Listes de substances vénéneuses
+      responses:
+        "200": { description: OK }
+  /v1/types.json:
+    get:
+      summary: Types (GE / RE / BIO) et origines (F / I)
+      responses:
+        "200": { description: OK }
+components:
+  schemas:
+    CodedValue:
+      type: object
+      properties:
+        code: { type: string }
+        label: { type: string }
+        labelEn: { type: [string, "null"] }
+    Medication:
+      type: object
+      required: [id, dci, brandName]
+      properties:
+        id:
+          type: string
+          description: Numéro d'enregistrement normalisé, clé stable entre éditions
+        numero:
+          type: [integer, "null"]
+          description: Rang dans l'édition officielle (non stable d'une édition à l'autre)
+        registrationNumber: { type: string }
+        code:
+          type: string
+          description: Code de classification nationale (ex. "01 A 003")
+        dci:
+          type: string
+          description: Dénomination commune internationale
+        dciSlug: { type: string }
+        brandName: { type: string }
+        brandSlug: { type: string }
+        form:
+          type: string
+          description: Forme galénique
+        dosage: { type: string }
+        packaging:
+          type: string
+          description: Conditionnement
+        list:
+          type: [string, "null"]
+          description: Liste I, Liste II, Stupéfiant
+        listLabel: { type: [string, "null"] }
+        hospitalUse:
+          type: boolean
+          description: Circuit hospitalier (colonne P1 = HOP)
+        retailUse:
+          type: boolean
+          description: Circuit officine (colonne P2 = OFF)
+        observation: { type: [string, "null"] }
+        laboratory: { type: string }
+        laboratorySlug: { type: string }
+        country: { type: string }
+        registrationDateInitial: { type: [string, "null"], format: date }
+        registrationDateFinal: { type: [string, "null"], format: date }
+        type:
+          $ref: "#/components/schemas/CodedValue"
+        origin:
+          $ref: "#/components/schemas/CodedValue"
+        stabilityMonths: { type: [integer, "null"] }
+        label:
+          type: string
+          description: Libellé d'affichage (marque + dosage + forme)

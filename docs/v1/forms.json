@@ -1,0 +1,2689 @@
+{
+  "count": 671,
+  "items": [
+    {
+      "label": "COMPRIME PELLICULE",
+      "count": 1168
+    },
+    {
+      "label": "COMPRIME",
+      "count": 479
+    },
+    {
+      "label": "GELULE",
+      "count": 404
+    },
+    {
+      "label": "COMPRIME SECABLE",
+      "count": 235
+    },
+    {
+      "label": "COMPRIME PELLICULE SECABLE",
+      "count": 190
+    },
+    {
+      "label": "COLLYRE EN SOLUTION",
+      "count": 141
+    },
+    {
+      "label": "COMPRIME ORODISPERSIBLE",
+      "count": 118
+    },
+    {
+      "label": "SIROP",
+      "count": 118
+    },
+    {
+      "label": "SOLUTION BUVABLE",
+      "count": 114
+    },
+    {
+      "label": "SOLUTION INJECTABLE",
+      "count": 107
+    },
+    {
+      "label": "SUPPOSITOIRE",
+      "count": 70
+    },
+    {
+      "label": "SUSPENSION BUVABLE",
+      "count": 69
+    },
+    {
+      "label": "COMPRIME PELLICULE A LIBERATION PROLONGEE",
+      "count": 53
+    },
+    {
+      "label": "SOLUTION BUVABLE EN GOUTTES",
+      "count": 51
+    },
+    {
+      "label": "CREME DERMIQUE",
+      "count": 50
+    },
+    {
+      "label": "POMMADE DERMIQUE",
+      "count": 42
+    },
+    {
+      "label": "POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE",
+      "count": 39
+    },
+    {
+      "label": "COMPRIME ENROBE",
+      "count": 34
+    },
+    {
+      "label": "GEL DERMIQUE",
+      "count": 34
+    },
+    {
+      "label": "SOLUTION INJECTABLE IM/IV",
+      "count": 28
+    },
+    {
+      "label": "COMPRIME A CROQUER",
+      "count": 25
+    },
+    {
+      "label": "MICROGRANULE EN GELLULE LIBERATION PROLONGEE",
+      "count": 24
+    },
+    {
+      "label": "SOLUTION INJECTABLE IV",
+      "count": 24
+    },
+    {
+      "label": "CAPSULE MOLLE",
+      "count": 23
+    },
+    {
+      "label": "CREME",
+      "count": 23
+    },
+    {
+      "label": "SUSPENSION POUR PULVERISATION NASALE",
+      "count": 23
+    },
+    {
+      "label": "COMPRIME EFFERVESSANT",
+      "count": 22
+    },
+    {
+      "label": "COMPRIME A LIBERATION PROLONGEE",
+      "count": 20
+    },
+    {
+      "label": "GELULE A MICRO-GRANULES GASTRO-RESISTANTS",
+      "count": 20
+    },
+    {
+      "label": "SOLUTION A DILUER POUR PERFUSION",
+      "count": 20
+    },
+    {
+      "label": "POUDRE POUR SOLUTION INJECTABLE IV/IM",
+      "count": 19
+    },
+    {
+      "label": "COMPRIME DISPERSIBLE",
+      "count": 18
+    },
+    {
+      "label": "POUDRE POUR SOLUTION BUVABLE",
+      "count": 18
+    },
+    {
+      "label": "POUDRE POUR SOLUTION INJECTABLE",
+      "count": 18
+    },
+    {
+      "label": "POUDRE POUR SUSPENSSION BUVABLE",
+      "count": 18
+    },
+    {
+      "label": "SOLUTION A DILUER POUR PERFUSION IV",
+      "count": 18
+    },
+    {
+      "label": "SOLUTION INJECTABLE IM",
+      "count": 18
+    },
+    {
+      "label": "SUSPENSION INJECTABLE",
+      "count": 17
+    },
+    {
+      "label": "COMPRIME QUADRI-SECABLE",
+      "count": 16
+    },
+    {
+      "label": "POUDRE LYOPHILISEE POUR SOLUTION A DILUER POUR PERFUSION IV",
+      "count": 16
+    },
+    {
+      "label": "GAZ POUR INHALATION",
+      "count": 15
+    },
+    {
+      "label": "GELULE A LIBERATION PROLONGE",
+      "count": 15
+    },
+    {
+      "label": "POUDRE POUR SOLUTION A DILUER POUR PERFUSION",
+      "count": 15
+    },
+    {
+      "label": "POUDRE POUR SUSPENSION BUVABLE",
+      "count": 14
+    },
+    {
+      "label": "SOLUTION POUR PERFUSION",
+      "count": 14
+    },
+    {
+      "label": "POMMADE",
+      "count": 13
+    },
+    {
+      "label": "COLLYRE",
+      "count": 12
+    },
+    {
+      "label": "GRANULE POUR SOLUTION BUVABLE EN SACHETS-DOSE",
+      "count": 12
+    },
+    {
+      "label": "MICROGRANULE EN GELLULE",
+      "count": 12
+    },
+    {
+      "label": "POUDRE POUR SUSPENSSION BUVABLE EN SACHET DOSE",
+      "count": 12
+    },
+    {
+      "label": "GELLULE GASTRO RESISTANTE",
+      "count": 11
+    },
+    {
+      "label": "OVULE",
+      "count": 11
+    },
+    {
+      "label": "PDRE. INHAL. EN GLES. + INHALATEUR",
+      "count": 11
+    },
+    {
+      "label": "POMMADE OPHTALMIQUE",
+      "count": 11
+    },
+    {
+      "label": "POUDRE POUR SOLUTION INJECTABLE IV",
+      "count": 11
+    },
+    {
+      "label": "SOLUTION INJECTABLE IV /IM",
+      "count": 11
+    },
+    {
+      "label": "COMPRIME A SUCER",
+      "count": 10
+    },
+    {
+      "label": "COMPRIME A SUCER OU A CROQUER",
+      "count": 10
+    },
+    {
+      "label": "SOL. A DILUER P. PERF IV",
+      "count": 10
+    },
+    {
+      "label": "SOL. USAGE EXTERNE",
+      "count": 10
+    },
+    {
+      "label": "SOLUTION DERMIQUE",
+      "count": 10
+    },
+    {
+      "label": "SOLUTION INJECTABLE. S/C EN SERINGUE PRE-REMPLIE",
+      "count": 10
+    },
+    {
+      "label": "COMPRIME PELLICULE SECABLE A LIBERATION PROLONGEE",
+      "count": 9
+    },
+    {
+      "label": "GEL",
+      "count": 9
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOLUTION INJECTABLE IV",
+      "count": 9
+    },
+    {
+      "label": "SOLUTION INJECTABLE IM EN SERINGUE PREREMPLIE",
+      "count": 9
+    },
+    {
+      "label": "COMPRIME DISPERSIBLE SECABLE",
+      "count": 8
+    },
+    {
+      "label": "COMPRIME PELLICULE GASTRO-RESISTANT",
+      "count": 8
+    },
+    {
+      "label": "MICROGRANULES GASTRO-RESISTANTS EN GELULE",
+      "count": 8
+    },
+    {
+      "label": "PDRE. P. INHAL.",
+      "count": 8
+    },
+    {
+      "label": "POUDRE POUR SUSPENSION BUVABLE EN SACHET DOSE",
+      "count": 8
+    },
+    {
+      "label": "SOLUTION INJECTABLE ET BUVABLE",
+      "count": 8
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC. ET INTRAVASCULAIRE EN SERING. PREREMPL.",
+      "count": 8
+    },
+    {
+      "label": "SOLVANT POUR PREPARATION INJECTABLE",
+      "count": 8
+    },
+    {
+      "label": "GEL OPHTALMIQUE",
+      "count": 7
+    },
+    {
+      "label": "POUDRE POUR INHALATION EN GELULE",
+      "count": 7
+    },
+    {
+      "label": "POUDRE POUR SUSPENSION BUVABLE ENFANT ET NOURRISSON",
+      "count": 7
+    },
+    {
+      "label": "SOLUTION BUVABLE EN SACHET",
+      "count": 7
+    },
+    {
+      "label": "SOLUTION INJECTABLE S/C IV EN SERINGUE PRE REMPLIE",
+      "count": 7
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC ET INTRAVASCULAIRE EN SERING. PREREMPL.",
+      "count": 7
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC/IV EN SERINGUE PREREMPLIE",
+      "count": 7
+    },
+    {
+      "label": "COLLYRE EN SUSPENSION",
+      "count": 6
+    },
+    {
+      "label": "COMPRIME GASTRO-RESISTANT",
+      "count": 6
+    },
+    {
+      "label": "COMPRIME PELLICULE A LIBERATION MODIFIEE",
+      "count": 6
+    },
+    {
+      "label": "COMRIME PELLICULE",
+      "count": 6
+    },
+    {
+      "label": "GELULE A LIBERATION PROLONGEE",
+      "count": 6
+    },
+    {
+      "label": "GRANULE POUR SUSPENSION BUVABLE",
+      "count": 6
+    },
+    {
+      "label": "GRANULE POUR SUSPENSION BUVABLE EN FLACON",
+      "count": 6
+    },
+    {
+      "label": "PDRE ORALE EN SACHET DOSE",
+      "count": 6
+    },
+    {
+      "label": "PDRE. LYOPH. ET SOLV. P. SOL. INJ.",
+      "count": 6
+    },
+    {
+      "label": "PDRE. ORALE EN SACHET DOSE",
+      "count": 6
+    },
+    {
+      "label": "PDRE. P. SUSP. INJ. IM",
+      "count": 6
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOL INJ",
+      "count": 6
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOLUTION INJECTABLE",
+      "count": 6
+    },
+    {
+      "label": "POUDRE LYOPHILISEE POUR SOLUTION POUR PERFUSION",
+      "count": 6
+    },
+    {
+      "label": "SOL INJ S/C EN STYLO PREREMPLI",
+      "count": 6
+    },
+    {
+      "label": "SOL. A DILUER P. PERF. IV",
+      "count": 6
+    },
+    {
+      "label": "SOL. P. PERF. IV",
+      "count": 6
+    },
+    {
+      "label": "SOLUTION BUVABLE AMP",
+      "count": 6
+    },
+    {
+      "label": "SOLUTION CONCENTREE A DILUER POUR PERFUSION",
+      "count": 6
+    },
+    {
+      "label": "SOLUTION CONCENTREE POUR HEMODIALYSE",
+      "count": 6
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN SERINGUE PRE REMPLIE SOUS CUTANE",
+      "count": 6
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN SERINGUE PRE-REMPLIE",
+      "count": 6
+    },
+    {
+      "label": "SOLUTION INJECTABLE IV OU PERIDURALE",
+      "count": 6
+    },
+    {
+      "label": "COMRPIME",
+      "count": 5
+    },
+    {
+      "label": "DRG.",
+      "count": 5
+    },
+    {
+      "label": "GEL BUCCAL",
+      "count": 5
+    },
+    {
+      "label": "LIQUIDE POUR INHALATION PAR VAPEUR",
+      "count": 5
+    },
+    {
+      "label": "PDRE P. SUSP. INJ S/C",
+      "count": 5
+    },
+    {
+      "label": "POUDRE LYOPHILISEE POUR SOLUTION INJECTABLE (IV/IM)",
+      "count": 5
+    },
+    {
+      "label": "SOL AURIC . GTTES",
+      "count": 5
+    },
+    {
+      "label": "SOL. A DILUER ET SOLVANT P./SOL. P./PERF. IV",
+      "count": 5
+    },
+    {
+      "label": "SOLUTION INJECTABLE P/PERF",
+      "count": 5
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC OU IV",
+      "count": 5
+    },
+    {
+      "label": "SOLUTION POUR PERFUSION IV",
+      "count": 5
+    },
+    {
+      "label": "SUSPENSION INJECTABLE EN SERINGUE PREREMPLIE",
+      "count": 5
+    },
+    {
+      "label": "AMP.BUV.",
+      "count": 4
+    },
+    {
+      "label": "CAPSULE DURE",
+      "count": 4
+    },
+    {
+      "label": "COLLYRE EN SOLUTION A LIBERATION PROLONGEE",
+      "count": 4
+    },
+    {
+      "label": "COMPRIME ENROBE SECABLE",
+      "count": 4
+    },
+    {
+      "label": "COMPRIME PELLICULE QUADRISECABLE",
+      "count": 4
+    },
+    {
+      "label": "COMPRIME QUADRI SECABLE",
+      "count": 4
+    },
+    {
+      "label": "COMPRIME SECABLE A LIBERATION PROLONGEE",
+      "count": 4
+    },
+    {
+      "label": "EMULSION POUR PERFUSION INTRAVEINEUSE",
+      "count": 4
+    },
+    {
+      "label": "GEL POUR APPLICATION CUTANEE",
+      "count": 4
+    },
+    {
+      "label": "GELULE A MICRO-GRANULES LIBERATION PROLONGE",
+      "count": 4
+    },
+    {
+      "label": "PDRE P. SOL P. PERF IV",
+      "count": 4
+    },
+    {
+      "label": "PDRE.PERF.",
+      "count": 4
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOLUTION INJECTABLE IV/IM",
+      "count": 4
+    },
+    {
+      "label": "POUDRE LYOPHILISEE POUR SOLUTION INJECTABLE IM/IV",
+      "count": 4
+    },
+    {
+      "label": "POUDRE POUR SOLUTION BUVABLE EN SACHET-DOSE",
+      "count": 4
+    },
+    {
+      "label": "SOL. P. DIALYSE PERITONEALE",
+      "count": 4
+    },
+    {
+      "label": "SOLUTION BUVALE",
+      "count": 4
+    },
+    {
+      "label": "SOLUTION INJECTABLE P.PERF IV",
+      "count": 4
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC EN STYLO PREREMPLI",
+      "count": 4
+    },
+    {
+      "label": "SOLUTION INJECTABLE. P. PERF. IV",
+      "count": 4
+    },
+    {
+      "label": "SOLUTION NASALE",
+      "count": 4
+    },
+    {
+      "label": "SOLUTION POUR HEMOFILTRATION",
+      "count": 4
+    },
+    {
+      "label": "SOLUTION POUR PREPARATION INJECTABLE",
+      "count": 4
+    },
+    {
+      "label": "SUSP.INHAL.BUCCALE",
+      "count": 4
+    },
+    {
+      "label": "SUSPENSION INJECTABLE IM/LOCALE",
+      "count": 4
+    },
+    {
+      "label": "Solution concentrEe pour HEmodialyse",
+      "count": 4
+    },
+    {
+      "label": "AEROSOL",
+      "count": 3
+    },
+    {
+      "label": "CAPSULES CONTENANT PDRE.PR INHAL.",
+      "count": 3
+    },
+    {
+      "label": "COMPRIME LIBERATION MODIFIEE",
+      "count": 3
+    },
+    {
+      "label": "COMPRIME VAGINAL",
+      "count": 3
+    },
+    {
+      "label": "COMPRIMPE SECABLE",
+      "count": 3
+    },
+    {
+      "label": "CREME POUR APPLICATION CUTANEE",
+      "count": 3
+    },
+    {
+      "label": "EMULSION FLUIDE POUR APPLICATION LOCALE (LAIT DERMIQUE)",
+      "count": 3
+    },
+    {
+      "label": "EMULSION POUR PERFEUSION",
+      "count": 3
+    },
+    {
+      "label": "GELULE GASTRO-RESISTANTE CONTENANT DES MINI-COMPRIMES",
+      "count": 3
+    },
+    {
+      "label": "GELULE GASTRO-RESISTANTES CONTENANTS DES MINI COMPRIMES",
+      "count": 3
+    },
+    {
+      "label": "GELULES",
+      "count": 3
+    },
+    {
+      "label": "LYOPH. P. SOL. INJ. IV",
+      "count": 3
+    },
+    {
+      "label": "LYOPHILISAT POUR SOLUTION INJECTABLE",
+      "count": 3
+    },
+    {
+      "label": "OVULE VAGINALE",
+      "count": 3
+    },
+    {
+      "label": "PDRE ET SOLV. SOL. INJ",
+      "count": 3
+    },
+    {
+      "label": "PDRE ET SOLV. SOL. INJ IV",
+      "count": 3
+    },
+    {
+      "label": "PDRE. P. INHAL. EN GELULE",
+      "count": 3
+    },
+    {
+      "label": "PDRE. P. SOL. BUV. OU GASTRO-ENTERALE",
+      "count": 3
+    },
+    {
+      "label": "PDRE. P. SOL. P. PERF.",
+      "count": 3
+    },
+    {
+      "label": "PDRE. SOL PERF.IV",
+      "count": 3
+    },
+    {
+      "label": "PDRE.LYOPH.PERF.",
+      "count": 3
+    },
+    {
+      "label": "PDRE.SOL.POUR PERFUSION IV",
+      "count": 3
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOL INJ OU PERF",
+      "count": 3
+    },
+    {
+      "label": "POUDRE LYOPH ET SOL POUR SOL INJ IV/SC",
+      "count": 3
+    },
+    {
+      "label": "POUDRE LYOPHILISEE POUR SOL INJ",
+      "count": 3
+    },
+    {
+      "label": "POUDRE POR SOLU, INJECT OU PERF IV",
+      "count": 3
+    },
+    {
+      "label": "POUDRE POUR SOLUTION POUR PERFUSION",
+      "count": 3
+    },
+    {
+      "label": "POUDRECPOUR SUSPENSION BUVABLE EN FLACON",
+      "count": 3
+    },
+    {
+      "label": "SHAMPOING",
+      "count": 3
+    },
+    {
+      "label": "SOL INJ A USAGE DENTAIRE",
+      "count": 3
+    },
+    {
+      "label": "SOL POUR APP LOCALE",
+      "count": 3
+    },
+    {
+      "label": "SOL. GLUCOSE",
+      "count": 3
+    },
+    {
+      "label": "SOL. P. INHAL.",
+      "count": 3
+    },
+    {
+      "label": "SOL.INHAL.PAR NEBULISEUR",
+      "count": 3
+    },
+    {
+      "label": "SOL.PERF.",
+      "count": 3
+    },
+    {
+      "label": "SOLUTION INJECTABLE A DILUER",
+      "count": 3
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC EN SERINGUE PREREMPLIE",
+      "count": 3
+    },
+    {
+      "label": "SOLUTION INJECTABLE SOUS CUTANE EN SERINGUE PRE-REMPLIE",
+      "count": 3
+    },
+    {
+      "label": "SOLUTION INJECTABLE SOUS CUTANEE EN STYLO PRE-REMPLIE",
+      "count": 3
+    },
+    {
+      "label": "SOLUTION INJECTABLE SOUS-CUTANEE EN SERINGUE PRE REMLIE",
+      "count": 3
+    },
+    {
+      "label": "SOLUTION INJECTABLE. P. PERF. IV.",
+      "count": 3
+    },
+    {
+      "label": "SOLUTION POUR INJECTION",
+      "count": 3
+    },
+    {
+      "label": "SOLUTION POUR PULVERISATION NASALE",
+      "count": 3
+    },
+    {
+      "label": "SPRAY NASALE",
+      "count": 3
+    },
+    {
+      "label": "SUSP. INHAL.BUCCALE EN SPYAY",
+      "count": 3
+    },
+    {
+      "label": "SUSPENSION BUVABLE EN SACHET DOSE",
+      "count": 3
+    },
+    {
+      "label": "VERNIS A ONGLES MEDICAMENTEUX",
+      "count": 3
+    },
+    {
+      "label": "AEROSOL POUR INHALATION",
+      "count": 2
+    },
+    {
+      "label": "CAPSULE MOLLE ORALE ET VAGINALE",
+      "count": 2
+    },
+    {
+      "label": "CAPSULE MOLLE VAGINALE",
+      "count": 2
+    },
+    {
+      "label": "CAPSULE ORALE",
+      "count": 2
+    },
+    {
+      "label": "COLLUTOIRE",
+      "count": 2
+    },
+    {
+      "label": "COLLY. - SOL AURIC. - SOL. NAS.",
+      "count": 2
+    },
+    {
+      "label": "COLLYRE EN SOLUTION EN RECIPIENT UNIDOSE",
+      "count": 2
+    },
+    {
+      "label": "COLLYRE EN SOLUTION STERILE",
+      "count": 2
+    },
+    {
+      "label": "COMPRIME A SUCER SECABLE",
+      "count": 2
+    },
+    {
+      "label": "COMPRIME DISPERS. OU. A CROQUER",
+      "count": 2
+    },
+    {
+      "label": "COMPRIME PELLICULE A LIBERATION PROLONGE",
+      "count": 2
+    },
+    {
+      "label": "COMPRIME PELLICULE BICOUCHE",
+      "count": 2
+    },
+    {
+      "label": "CONC. A DILUER P. PERF. IV",
+      "count": 2
+    },
+    {
+      "label": "COPRIME PELLICULE",
+      "count": 2
+    },
+    {
+      "label": "CREME LIPOPHILE",
+      "count": 2
+    },
+    {
+      "label": "GEL BUVABLE",
+      "count": 2
+    },
+    {
+      "label": "GEL MOUSSANT",
+      "count": 2
+    },
+    {
+      "label": "GEL MOUSSANT EN SACHET DOSE",
+      "count": 2
+    },
+    {
+      "label": "GEL POUR APPLICATION LOCALE",
+      "count": 2
+    },
+    {
+      "label": "GEL RECTAL",
+      "count": 2
+    },
+    {
+      "label": "GELULE A GRANULE GR",
+      "count": 2
+    },
+    {
+      "label": "GELULE A LIBERATION RETARDEE",
+      "count": 2
+    },
+    {
+      "label": "GELULE A MICRO-GRANULES",
+      "count": 2
+    },
+    {
+      "label": "GLES.",
+      "count": 2
+    },
+    {
+      "label": "GRANULE POUR SUSPENSION BUV",
+      "count": 2
+    },
+    {
+      "label": "GRANULES P/SOL. BUV. EN SACHET ADULTE",
+      "count": 2
+    },
+    {
+      "label": "GRANULES POUR SUSPENSION BUVABLE",
+      "count": 2
+    },
+    {
+      "label": "IMPLANT S.C. EN SERINGUE PRE REMPLIE",
+      "count": 2
+    },
+    {
+      "label": "LIQUIDE. P. INHAL. PAR VAPEUR",
+      "count": 2
+    },
+    {
+      "label": "LOTION DERM.",
+      "count": 2
+    },
+    {
+      "label": "LYOPH. ET SOLV. P. USAGE PARENTERAL IM/IV",
+      "count": 2
+    },
+    {
+      "label": "LYOPHILISAT",
+      "count": 2
+    },
+    {
+      "label": "LYOPHILISAT ET SOLVANT POUR SOL. INJ.",
+      "count": 2
+    },
+    {
+      "label": "MICRO-GRANULE A LIBERATION PROLONGEE EN SACHET",
+      "count": 2
+    },
+    {
+      "label": "PATCH",
+      "count": 2
+    },
+    {
+      "label": "PDRE ET SOLVANT P/SOL INJ IV",
+      "count": 2
+    },
+    {
+      "label": "PDRE ET SOLVT. SOL. INJ.",
+      "count": 2
+    },
+    {
+      "label": "PDRE POUR INHALATION EN GELULES",
+      "count": 2
+    },
+    {
+      "label": "PDRE. A DILUER SOL. PERF. IV",
+      "count": 2
+    },
+    {
+      "label": "PDRE. ET SOLV. P. SOL. A DILUER P. PERF. IV",
+      "count": 2
+    },
+    {
+      "label": "PDRE. ET SOLV. P. SOL. INJ.",
+      "count": 2
+    },
+    {
+      "label": "PDRE. ET SOLV. P. SOL. INJ. IM/IV",
+      "count": 2
+    },
+    {
+      "label": "PDRE. ET SOLV. P. SOL. INJ. IV",
+      "count": 2
+    },
+    {
+      "label": "PDRE. P. SOL. A DILIER P. PERF. IV.",
+      "count": 2
+    },
+    {
+      "label": "PDRE. P. SOL. INJ. SC",
+      "count": 2
+    },
+    {
+      "label": "POUDRE EN SOLUTION INJECTABLE",
+      "count": 2
+    },
+    {
+      "label": "POUDRE ET SOL POUR SOL INJ",
+      "count": 2
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOL INJ IV",
+      "count": 2
+    },
+    {
+      "label": "POUDRE LYOPHILIS2E POUR SOL,INJ IV",
+      "count": 2
+    },
+    {
+      "label": "POUDRE LYOPHILISEE ET SOLVANT POUR SOLUTION INJECTABLE IV/SC",
+      "count": 2
+    },
+    {
+      "label": "POUDRE POUR INHALATION",
+      "count": 2
+    },
+    {
+      "label": "POUDRE POUR SOL INJ OU POUR PERF IV",
+      "count": 2
+    },
+    {
+      "label": "POUDRE POUR SOLUTION INJECTABLE IM",
+      "count": 2
+    },
+    {
+      "label": "POUDRE POUR SOLUTION POUR INJECTION",
+      "count": 2
+    },
+    {
+      "label": "SOL . P. DIALYSE",
+      "count": 2
+    },
+    {
+      "label": "SOL A DIL POUR PERF",
+      "count": 2
+    },
+    {
+      "label": "SOL A DIL POUR PERF INTR",
+      "count": 2
+    },
+    {
+      "label": "SOL AURICULAIRE STERILE",
+      "count": 2
+    },
+    {
+      "label": "SOL BUV EN GOUTTES",
+      "count": 2
+    },
+    {
+      "label": "SOL INJ",
+      "count": 2
+    },
+    {
+      "label": "SOL INJ S/C EN CARTOUCHES",
+      "count": 2
+    },
+    {
+      "label": "SOL P/PERF I/V",
+      "count": 2
+    },
+    {
+      "label": "SOL POUR INJ SC",
+      "count": 2
+    },
+    {
+      "label": "SOL POUR PULVERISATION NASALE",
+      "count": 2
+    },
+    {
+      "label": "SOL. AURIC.",
+      "count": 2
+    },
+    {
+      "label": "SOL. INJ (I.M/I.V)",
+      "count": 2
+    },
+    {
+      "label": "SOL. P. APPL. CUTANEE",
+      "count": 2
+    },
+    {
+      "label": "SOL. P. IRRIGATION VESICALE",
+      "count": 2
+    },
+    {
+      "label": "SOL. PERF.",
+      "count": 2
+    },
+    {
+      "label": "SOL.BAIN.BOUCHE",
+      "count": 2
+    },
+    {
+      "label": "SOL.INJ",
+      "count": 2
+    },
+    {
+      "label": "SOL.INJ.",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION AURIC",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION BUVABLE EN AMPOULE",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN CARTOUCHE POUR STYLO",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN SERING. PREREMPL.",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN SOUS CUTANEE",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN STYLO PRE REMPLI",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN STYLO PREREMPLI",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE IM OU IV LENTE",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE INTRAVITREENE",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE IV lente OU IM",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE IV, IM ,SC OU PERIDURALE",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE POUR PER IV",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE POUR PERFUSION",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE POUR PERFUSION IV ET S/C",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE S/C",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC OU PERFUSION IV",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC PROFONDE A LIBERATION PROLONGEE",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE SOUS CUTANE EN SERINGUE PREREMPLIE",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION INJECTABLE. SC",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION POUR APPLICATION CUTANEE",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION POUR APPLICATION LOCALE",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION POUR INJECTION SC",
+      "count": 2
+    },
+    {
+      "label": "SOLUTION POUR INJECTION SOUS CUTANEE",
+      "count": 2
+    },
+    {
+      "label": "SUS BUV EN STICK UNIDOSE",
+      "count": 2
+    },
+    {
+      "label": "SUSP. INHAL.BUCCALE",
+      "count": 2
+    },
+    {
+      "label": "SUSP. P. INHAL. PAR NEBULISEUR EN RECIPIENT UNIDOSE",
+      "count": 2
+    },
+    {
+      "label": "SUSP.NAS.",
+      "count": 2
+    },
+    {
+      "label": "SUSPENSION INTRATRACHEALE",
+      "count": 2
+    },
+    {
+      "label": "SUSPENSION OPHTALMIQUE",
+      "count": 2
+    },
+    {
+      "label": "---",
+      "count": 1
+    },
+    {
+      "label": "AERO.NAS.",
+      "count": 1
+    },
+    {
+      "label": "AEROSOL BUCCAL",
+      "count": 1
+    },
+    {
+      "label": "BAIN DE BOUCHE",
+      "count": 1
+    },
+    {
+      "label": "BAUME",
+      "count": 1
+    },
+    {
+      "label": "CAPSULE MOLLE ORALE OU VAGINALE",
+      "count": 1
+    },
+    {
+      "label": "CAPSULE VAGINALE",
+      "count": 1
+    },
+    {
+      "label": "CAPSULES CONTENANT DE LA PDRE P.INHALATION",
+      "count": 1
+    },
+    {
+      "label": "COLLYRE (SANS CONSERVATEUR)",
+      "count": 1
+    },
+    {
+      "label": "COLLYRE VISQUEUX",
+      "count": 1
+    },
+    {
+      "label": "COMP.GASTRORESIST.",
+      "count": 1
+    },
+    {
+      "label": "COMPRIM2 PELLICULE",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME . ENRO. LP",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME A CROQUER ET A SUCER",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME A CROQUER OU A SUCER",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME A CROQUER SANS SUCRE",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME A CROQUER SANS SUCRE A LA MENTHE",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME A LIB PROLONGEE",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME A SUCER EDULCORE AU SORBITOL ET A LA SACCHARINE",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME AVEC BARRE DE CASSEURE",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME EFFERVESCENT SECABLE",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME ENROBE GASTRO-RESISTANT",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME OPELL SECABLES",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME PELLICULE A LIB PRO",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME SEC. ADULTE",
+      "count": 1
+    },
+    {
+      "label": "COMPRIME SECABLE A LIBERATION MODIFIEE",
+      "count": 1
+    },
+    {
+      "label": "COMPRIMES A LIB PRO",
+      "count": 1
+    },
+    {
+      "label": "COMPRIMES EFFERVESCENTS",
+      "count": 1
+    },
+    {
+      "label": "CONC. PERF.",
+      "count": 1
+    },
+    {
+      "label": "CONC.SOL.PER IV",
+      "count": 1
+    },
+    {
+      "label": "CONCENTRE A DILUER P. PERF.",
+      "count": 1
+    },
+    {
+      "label": "CONCENTRE P/IV OU SOL INJ IMSOL.INJ.",
+      "count": 1
+    },
+    {
+      "label": "CONCENTRE P/SOL P/PERF I.V",
+      "count": 1
+    },
+    {
+      "label": "CONCENTRE POUR SOLUTION A DILUER POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "CONCENTRE POUR SOLUTION INJECTABLE OU POUR PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "CONCENTRE STERILE POUR SOLUTION POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "CREME EPAISSE",
+      "count": 1
+    },
+    {
+      "label": "CREME HYDROPHILE",
+      "count": 1
+    },
+    {
+      "label": "CREME VAGINALE",
+      "count": 1
+    },
+    {
+      "label": "EMULSION GEL",
+      "count": 1
+    },
+    {
+      "label": "EMULSION INJ IV ET POUR PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "EMULSION INJ. IV ET POUR PERF.IV",
+      "count": 1
+    },
+    {
+      "label": "EMULSION IV PERF.",
+      "count": 1
+    },
+    {
+      "label": "EMULSION OPHTALMIQUE",
+      "count": 1
+    },
+    {
+      "label": "EMULSION P.APPLICATION CUTANEE",
+      "count": 1
+    },
+    {
+      "label": "EMULSION PERF. IV",
+      "count": 1
+    },
+    {
+      "label": "EMULSION PERF.IV",
+      "count": 1
+    },
+    {
+      "label": "EMULSION POUR APPLICATION CUTANEE",
+      "count": 1
+    },
+    {
+      "label": "EMULSION POUR INJECTION INTRAMUSCULAIRE",
+      "count": 1
+    },
+    {
+      "label": "EMULSION POUR PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "FLACON",
+      "count": 1
+    },
+    {
+      "label": "GEL BUVABLE EN SACHETS-DOSE",
+      "count": 1
+    },
+    {
+      "label": "GEL OPHTALMIQUE EN RECIPIENT UNIDOSE",
+      "count": 1
+    },
+    {
+      "label": "GEL.OPHT",
+      "count": 1
+    },
+    {
+      "label": "GELLULE A LIBERATION PROLONGEE",
+      "count": 1
+    },
+    {
+      "label": "GELLULE A MICRO-GRANULES GASTRO RESISTANTE",
+      "count": 1
+    },
+    {
+      "label": "GELULE A DOUBLE LIBERATION",
+      "count": 1
+    },
+    {
+      "label": "GELULE A GRANULES GASTRO-RESISTANTS",
+      "count": 1
+    },
+    {
+      "label": "GELULE A MICROGRANULES GASTRO-RESISTANT",
+      "count": 1
+    },
+    {
+      "label": "GELULE DURE",
+      "count": 1
+    },
+    {
+      "label": "GELULE GASTRO-RESISTANTES LIBERATION PROLONGE",
+      "count": 1
+    },
+    {
+      "label": "GELULES A LIBERATION MODIFIEE",
+      "count": 1
+    },
+    {
+      "label": "GELULES GASTO-RESISTANTE",
+      "count": 1
+    },
+    {
+      "label": "GOUTTES OCULAIRES ET AURICULAIRES EN SOLUTION",
+      "count": 1
+    },
+    {
+      "label": "GRANULE",
+      "count": 1
+    },
+    {
+      "label": "GRANULE POUR SOLUTION BUVABLE",
+      "count": 1
+    },
+    {
+      "label": "GRANULE POUR SUSPENSION BUVABLE EN SACHET",
+      "count": 1
+    },
+    {
+      "label": "GRANULES EN GELULE GASTRO-RESISTANTS",
+      "count": 1
+    },
+    {
+      "label": "GRANULES POUR SOL BUV EN SACHET POUR ADULTE",
+      "count": 1
+    },
+    {
+      "label": "GRANULES POUR SOLUTION BUVABLE EN SACHET DOSE",
+      "count": 1
+    },
+    {
+      "label": "Gel ORAL",
+      "count": 1
+    },
+    {
+      "label": "HUILE BUVABLE",
+      "count": 1
+    },
+    {
+      "label": "IMPLANT INTRAVITREEN",
+      "count": 1
+    },
+    {
+      "label": "IMPLANT P. USAGE SOUS CUTANE",
+      "count": 1
+    },
+    {
+      "label": "LAIT EN POUDRE",
+      "count": 1
+    },
+    {
+      "label": "LAIT EN POUDRE POUR ADOLESCENTS DE 15 ANS, ADULTES ET FEMMES ENCEINTE",
+      "count": 1
+    },
+    {
+      "label": "LAIT EN POUDRE POUR ENFANT EN BAS AGE ET ENFANT DE 1 A 14 ANS",
+      "count": 1
+    },
+    {
+      "label": "LAIT EN POUDRE POUR ENFANT EN BAS AGE ET ENFANT DE 3 A 14 ANS",
+      "count": 1
+    },
+    {
+      "label": "LIQUID.1L.",
+      "count": 1
+    },
+    {
+      "label": "LOTION",
+      "count": 1
+    },
+    {
+      "label": "LYOPH. ET SOLV. P. PERF. IV",
+      "count": 1
+    },
+    {
+      "label": "LYOPH. ET SOLV. P. PREPARATION INJ. IV",
+      "count": 1
+    },
+    {
+      "label": "LYOPH. ET SOLV. P. SOL. A DILUER P. PERF. IV",
+      "count": 1
+    },
+    {
+      "label": "LYOPH. ET SOLV. P. SOL. INJ. IV",
+      "count": 1
+    },
+    {
+      "label": "LYOPH. ET SOLV. SOL. INJ. INTRA-LESIONNELLE ET PERI-LESIONNELLE",
+      "count": 1
+    },
+    {
+      "label": "LYOPH. ET SOLV. SOL. INJ. IV",
+      "count": 1
+    },
+    {
+      "label": "LYOPH. ET SOLV.POUR .SOL.INJ",
+      "count": 1
+    },
+    {
+      "label": "LYOPH. ORAL SUBLINGUAL",
+      "count": 1
+    },
+    {
+      "label": "LYOPH. P. SOL. INJ. P. PERF. IV",
+      "count": 1
+    },
+    {
+      "label": "LYOPH. P. USAGE PARENT. IM/IV/IP",
+      "count": 1
+    },
+    {
+      "label": "LYOPH. SOL. INJ.",
+      "count": 1
+    },
+    {
+      "label": "LYOPH.SOL.PERF.",
+      "count": 1
+    },
+    {
+      "label": "LYOPHI. P. SOL. INJ. IM/IV",
+      "count": 1
+    },
+    {
+      "label": "LYOPHILISAT POU SOLUTION 0 DILUER POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "LYOPHILISAT POUR SOLUTION A DILUER POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "LYOPHILISAT POUR SOLUTION INJECTABLE IV",
+      "count": 1
+    },
+    {
+      "label": "LYOPHILISAT POUR SOLUTION POUR PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "LYOPHILISAT POUR SOLUTION POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "LYOPHIULISAT POUR SOLUTION INJECTABLE PAR VOIE IV",
+      "count": 1
+    },
+    {
+      "label": "Lait en poudre pour nourrisson de 0 à 1 ans",
+      "count": 1
+    },
+    {
+      "label": "MECHE IMPREGNEE DANS 1ML DE SOLUTION",
+      "count": 1
+    },
+    {
+      "label": "MICRGLES. GASTRORESIST. EN GLES.",
+      "count": 1
+    },
+    {
+      "label": "MICRO GRANULES A LIBERATION PROLONGE EN GELULE",
+      "count": 1
+    },
+    {
+      "label": "MICROGRANULE EN SACHET",
+      "count": 1
+    },
+    {
+      "label": "MICROGRANULE EN SACHET DOSE A LIBERATION PROLONGE",
+      "count": 1
+    },
+    {
+      "label": "MICROGRANULE EN SACHET LIBERATION PROLONGEE",
+      "count": 1
+    },
+    {
+      "label": "MICROGRANULES A LIBERATION IMMEDIATE EN GELULE",
+      "count": 1
+    },
+    {
+      "label": "MICROGRANULES A LIBERATION PROLONGEE EN GELULE",
+      "count": 1
+    },
+    {
+      "label": "MICROGRANULES EN GELULE",
+      "count": 1
+    },
+    {
+      "label": "MICROGRANULES GASTRO RESISTANTE GELULE",
+      "count": 1
+    },
+    {
+      "label": "MICROGRANULES LP EN GELULE",
+      "count": 1
+    },
+    {
+      "label": "MOUSSE CUTANEE",
+      "count": 1
+    },
+    {
+      "label": "OVULE GYNECOLOGIQUE",
+      "count": 1
+    },
+    {
+      "label": "PDRE ET SOLV. SOL. INJ. SC",
+      "count": 1
+    },
+    {
+      "label": "PDRE ET SOLV. SOL. PER",
+      "count": 1
+    },
+    {
+      "label": "PDRE ET SOLVANT PR SOL INJ",
+      "count": 1
+    },
+    {
+      "label": "PDRE ET SOLVANT SOL. INJ. SC",
+      "count": 1
+    },
+    {
+      "label": "PDRE LYOPHILISEE",
+      "count": 1
+    },
+    {
+      "label": "PDRE LYOPHILISEE P/INJ EN PERF IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE LYOPHILISEE P/INJ. EN PERF. IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE LYOPHILISEE P/PERF IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE P. SOL A DILUER P. PERF IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE P.PREPARATION INJ IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE POUR INHAL BUCCALE",
+      "count": 1
+    },
+    {
+      "label": "PDRE POUR INHAL. EN GLES. AVEC INHALATEUR.",
+      "count": 1
+    },
+    {
+      "label": "PDRE SOL INJ PERF",
+      "count": 1
+    },
+    {
+      "label": "PDRE. + SOLV. INJ.",
+      "count": 1
+    },
+    {
+      "label": "PDRE. ET SOLV.",
+      "count": 1
+    },
+    {
+      "label": "PDRE. ET SOLV. INJ. IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE. ET SOLV. P. SOL. INJ. SC",
+      "count": 1
+    },
+    {
+      "label": "PDRE. ET SOLV. P. SOL. INJ. SC DIFFUSION LENTE SUR 3 MOIS",
+      "count": 1
+    },
+    {
+      "label": "PDRE. ET SOLV. P. SOL. INJ. SC DIFFUSION LENTE SUR 6 MOIS",
+      "count": 1
+    },
+    {
+      "label": "PDRE. ET SOLV. P. SOL. INJ/IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE. ET SOLV. SOL. INJ.",
+      "count": 1
+    },
+    {
+      "label": "PDRE. ET SOLV. SOL. INJ.IM",
+      "count": 1
+    },
+    {
+      "label": "PDRE. INHAL. EN GLES.",
+      "count": 1
+    },
+    {
+      "label": "PDRE. LYOP. P. SOL. P. PERF. IV.",
+      "count": 1
+    },
+    {
+      "label": "PDRE. LYOPH. ET SOLV. P. SOL. INJ. OU P. PERF.",
+      "count": 1
+    },
+    {
+      "label": "PDRE. LYOPH. P. PERF. IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE. LYOPH. P. SOL. INJ. PERF.",
+      "count": 1
+    },
+    {
+      "label": "PDRE. ORALE",
+      "count": 1
+    },
+    {
+      "label": "PDRE. P ENFANTS DES 8ANS, ADOLESCENTS ET ADULTES DONT LES FEMMES ENCEINTES",
+      "count": 1
+    },
+    {
+      "label": "PDRE. P. INHAL. EN GLES. + INHALATEUR.",
+      "count": 1
+    },
+    {
+      "label": "PDRE. P. NOURRISSON AGE DE 0 A 1AN",
+      "count": 1
+    },
+    {
+      "label": "PDRE. P. SOL. INJ. IM (solvant LIDOCAINE) ET IM/IV (sans solvant)",
+      "count": 1
+    },
+    {
+      "label": "PDRE. P. SOL. INJ. IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE. P. SOL. INJ. IV OU PERF.",
+      "count": 1
+    },
+    {
+      "label": "PDRE. P. SOL. P. PERF. IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE. P/SOL. A DILUER P/PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE. SOL ORALE",
+      "count": 1
+    },
+    {
+      "label": "PDRE. SOL. INJ. IV",
+      "count": 1
+    },
+    {
+      "label": "PDRE.ET SOLV. POUR SOL.INJ. SC",
+      "count": 1
+    },
+    {
+      "label": "PDRE.ET SOLVT. SOL. INJ. SC MULTIDOSE",
+      "count": 1
+    },
+    {
+      "label": "PDRE.OR.",
+      "count": 1
+    },
+    {
+      "label": "PDRE.ORALE EN .SACHETS",
+      "count": 1
+    },
+    {
+      "label": "PDRE.P. ENFANT AGE DE 1AN A 8ANS.",
+      "count": 1
+    },
+    {
+      "label": "PDRE.SOL.INJ.",
+      "count": 1
+    },
+    {
+      "label": "PDRE.SUSP.OR.",
+      "count": 1
+    },
+    {
+      "label": "PDRE.SUSP.OR. et REC.",
+      "count": 1
+    },
+    {
+      "label": "POMMADE OPHTALMIQUE EN RECIPIENT UNIDOSE",
+      "count": 1
+    },
+    {
+      "label": "POUDRE + SOLVANT POUR PREPARATION INJ POUR PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "POUDRE 2%",
+      "count": 1
+    },
+    {
+      "label": "POUDRE A RECONSTITUER POUR ENFANTS 1 A 8 ANS",
+      "count": 1
+    },
+    {
+      "label": "POUDRE A RECONSTITUER POUR NOURRISSONS DE 0 A 1 AN",
+      "count": 1
+    },
+    {
+      "label": "POUDRE DE SOLVANT POUR SOL INJ",
+      "count": 1
+    },
+    {
+      "label": "POUDRE EN LYOPHILAT POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR PREPARATION INJECTABLE S/C",
+      "count": 1
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOL INJ IV/IM",
+      "count": 1
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOL INJ S/C IV",
+      "count": 1
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOLUTION INJECTABLE (POUDRE ET SOLVANT POUR SOLUTION POUR PERFUSION )",
+      "count": 1
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOLUTION INJECTABLE I",
+      "count": 1
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOLUTION INJECTABLE OU POUR PERF, IV",
+      "count": 1
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SOLUTION INJECTABLE S/C PAR UN FLACON DE POUDRE",
+      "count": 1
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SUSP INJ A LIB PROL",
+      "count": 1
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SUSPENSION INJECTABLE IM ET SOUS CUTANEE A LIBERATION PROLONGEE SUR 28 JOURS",
+      "count": 1
+    },
+    {
+      "label": "POUDRE ET SOLVANT POUR SUSPENSION INJECTABLE IM ET SOUS CUTANEE A LIBERATION PROLONGEE SUR 3 MOIS",
+      "count": 1
+    },
+    {
+      "label": "POUDRE LYO ET SOL POUR SOL INJ IV/SC",
+      "count": 1
+    },
+    {
+      "label": "POUDRE LYOPHILISE POUR SOLUTION à DILUER POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "POUDRE LYOPHILISEE DANS UN FLACON A DOSE UNIQUE POUR LA RECONSTITUTION BLINATUMOMAB",
+      "count": 1
+    },
+    {
+      "label": "POUDRE LYOPHILISEE POUR INJ",
+      "count": 1
+    },
+    {
+      "label": "POUDRE LYOPHILISEE POUR PREPARATION INJECTABLE EN PERFUSION INTRAVEINEUSE",
+      "count": 1
+    },
+    {
+      "label": "POUDRE LYOPHILISEE POUR SOLUTION A DILUER POUR PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "POUDRE LYOPHILISEE POUR SOLUTION POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "POUDRE LYPHILISEE POUR SOL INJ IM/IV",
+      "count": 1
+    },
+    {
+      "label": "POUDRE ORALE EN SACHET",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR RECONSTITUTION POUR SOL POUR PERF",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOL A DILUER POUR PERF OU POUR SOL BUV 500MG/FLACON DE POUDRE",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOL A DILUER POUR PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOL BUV",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOL BUV EN SACHET-DOSE",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOL INJ OU POUR PERF",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOL INJ PAR VOIE SC/IM/IV",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOLUTION A DILUER POUR PERFUSIN",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOLUTION A DILUER POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOLUTION INJECTABLE IM/IV",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOLUTION INJECTABLE/PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOLUTION INJECTABLE/POUR PERFUSION (IV)",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SOLUTION POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "POUDRE POUR SUSPENSION BUVABLE EN SACHET",
+      "count": 1
+    },
+    {
+      "label": "POUDRE. ET SOLV. P. PREPARATION INJ. IV",
+      "count": 1
+    },
+    {
+      "label": "POUDRES ET SOLVANTS POUR COLLE",
+      "count": 1
+    },
+    {
+      "label": "SIOLUTION INJECTABLE",
+      "count": 1
+    },
+    {
+      "label": "SIROP 15%",
+      "count": 1
+    },
+    {
+      "label": "SIROP. AD.",
+      "count": 1
+    },
+    {
+      "label": "SO. INJ. P. PERF. IV",
+      "count": 1
+    },
+    {
+      "label": "SOL . PULV . NAS.",
+      "count": 1
+    },
+    {
+      "label": "SOL .BUV .GTTES. + PIPETTE GRADUEE",
+      "count": 1
+    },
+    {
+      "label": "SOL A DILUER P. PERF IV",
+      "count": 1
+    },
+    {
+      "label": "SOL A DILUER P/PERF IV",
+      "count": 1
+    },
+    {
+      "label": "SOL A DILUER POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "SOL A DILUER. P. PERF. IV",
+      "count": 1
+    },
+    {
+      "label": "SOL BUV EN GOUTTESL",
+      "count": 1
+    },
+    {
+      "label": "SOL BUV ET INJ IV OU IM",
+      "count": 1
+    },
+    {
+      "label": "SOL BUV SANS SUCRE",
+      "count": 1
+    },
+    {
+      "label": "SOL DERMIQUE",
+      "count": 1
+    },
+    {
+      "label": "SOL HYDROALCOOLIQUE EN APP CUTANEE",
+      "count": 1
+    },
+    {
+      "label": "SOL INJ EN CARPULES",
+      "count": 1
+    },
+    {
+      "label": "SOL INJ IM OU IV LENTE",
+      "count": 1
+    },
+    {
+      "label": "SOL INJ IM OU PERF IV",
+      "count": 1
+    },
+    {
+      "label": "SOL INJ IM/IV LENTE",
+      "count": 1
+    },
+    {
+      "label": "SOL INJ IV",
+      "count": 1
+    },
+    {
+      "label": "SOL INJ IV/IM/SC POUR PERFUSION OU RECTALE",
+      "count": 1
+    },
+    {
+      "label": "SOL INJ S/C",
+      "count": 1
+    },
+    {
+      "label": "SOL INJ S/C -I/V EN CARTOUCHES POUR STYLO",
+      "count": 1
+    },
+    {
+      "label": "SOL INJ S/C EN CARTOUCHES POUR STYLO",
+      "count": 1
+    },
+    {
+      "label": "SOL INJ SC/IV",
+      "count": 1
+    },
+    {
+      "label": "SOL INJ SOUS CUTANE",
+      "count": 1
+    },
+    {
+      "label": "SOL P. APPLIC. LOCALE",
+      "count": 1
+    },
+    {
+      "label": "SOL P/APPL LOCALE",
+      "count": 1
+    },
+    {
+      "label": "SOL P/INHALATION",
+      "count": 1
+    },
+    {
+      "label": "SOL P/PERF",
+      "count": 1
+    },
+    {
+      "label": "SOL P/PERF IV",
+      "count": 1
+    },
+    {
+      "label": "SOL POUR APPLIC LOCALE",
+      "count": 1
+    },
+    {
+      "label": "SOL POUR INHALATION AURICULAIRE EN GOUTES",
+      "count": 1
+    },
+    {
+      "label": "SOL POUR INJ",
+      "count": 1
+    },
+    {
+      "label": "SOL POUR INJ INTRATHECALE",
+      "count": 1
+    },
+    {
+      "label": "SOL POUR INJ INTRAVEINEUE POUR PERF",
+      "count": 1
+    },
+    {
+      "label": "SOL POUR INJ SOUS-CUTANEE",
+      "count": 1
+    },
+    {
+      "label": "SOL POUR PREPARATION INJ",
+      "count": 1
+    },
+    {
+      "label": "SOL.",
+      "count": 1
+    },
+    {
+      "label": "SOL. A DILUER P. PERF.",
+      "count": 1
+    },
+    {
+      "label": "SOL. A DILUER POUR PERF IV",
+      "count": 1
+    },
+    {
+      "label": "SOL. A DILUER POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "SOL. A USAGE EXTERNE",
+      "count": 1
+    },
+    {
+      "label": "SOL. APPLI. CUTANEE",
+      "count": 1
+    },
+    {
+      "label": "SOL. APPLI. LOCALE",
+      "count": 1
+    },
+    {
+      "label": "SOL. BUV. EN FL.",
+      "count": 1
+    },
+    {
+      "label": "SOL. BUV. SANS SUCRE",
+      "count": 1
+    },
+    {
+      "label": "SOL. BUVABLE",
+      "count": 1
+    },
+    {
+      "label": "SOL. CONC. ACIDE POUR HEMODIALYSE",
+      "count": 1
+    },
+    {
+      "label": "SOL. CONC. P. PERF. IV",
+      "count": 1
+    },
+    {
+      "label": "SOL. DE REHYDRATATION P/PERF",
+      "count": 1
+    },
+    {
+      "label": "SOL. INJ",
+      "count": 1
+    },
+    {
+      "label": "SOL. INJ SC EN MULTIDOSE",
+      "count": 1
+    },
+    {
+      "label": "SOL. OR. EN GTTES.",
+      "count": 1
+    },
+    {
+      "label": "SOL. P. APPL. LOCALE",
+      "count": 1
+    },
+    {
+      "label": "SOL. P. BAIN DE BOUCHE",
+      "count": 1
+    },
+    {
+      "label": "SOL. P. DIALYSE CONTINUE AMBULATOIRE PERITONEALE",
+      "count": 1
+    },
+    {
+      "label": "SOL. P. HEMODIALYSE",
+      "count": 1
+    },
+    {
+      "label": "SOL. P. INST. AURC.",
+      "count": 1
+    },
+    {
+      "label": "SOL. POUR HEMODIALYSE",
+      "count": 1
+    },
+    {
+      "label": "SOL. PULV. NASALE",
+      "count": 1
+    },
+    {
+      "label": "SOL. PULV.NASALE",
+      "count": 1
+    },
+    {
+      "label": "SOL. SOUS PRESSION P. INHAL. BUCC.",
+      "count": 1
+    },
+    {
+      "label": "SOL.A DILUER POUR PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "SOL.BUV.",
+      "count": 1
+    },
+    {
+      "label": "SOL.BUV. EN AMP.",
+      "count": 1
+    },
+    {
+      "label": "SOL.BUV. OU REC. (APPLIC. GASTRO-INTESTINALE)",
+      "count": 1
+    },
+    {
+      "label": "SOL.BUV. SANS SUCRE",
+      "count": 1
+    },
+    {
+      "label": "SOL.BUV.AMP.",
+      "count": 1
+    },
+    {
+      "label": "SOL.CONC. POUR HEMODIALYSE FORMULE BASIQUE AU BICARBONATE",
+      "count": 1
+    },
+    {
+      "label": "SOL.DERM.",
+      "count": 1
+    },
+    {
+      "label": "SOL.INHAL.BUCCAL.",
+      "count": 1
+    },
+    {
+      "label": "SOL.INJ A USAGE DENTAIRE",
+      "count": 1
+    },
+    {
+      "label": "SOL.INJ. IV",
+      "count": 1
+    },
+    {
+      "label": "SOL.INJ. PERFUSION IV CONTINUE EN SC",
+      "count": 1
+    },
+    {
+      "label": "SOL.LAVAGE OPHT.",
+      "count": 1
+    },
+    {
+      "label": "SOL.NAS.",
+      "count": 1
+    },
+    {
+      "label": "SOL.NEB.",
+      "count": 1
+    },
+    {
+      "label": "SOLOTION INJECTABLE POUR PERFUSION IV OU INJECTION DANS LE DIALYSEUR",
+      "count": 1
+    },
+    {
+      "label": "SOLUT, A DILUER POUR PERF IV",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION ANTISEPTIQUE VAGINALE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION BUVABE EN SACHET",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION BUVABLE AMP.",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION FILMOGENE POUR APPLICATION LOCALE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION GINGIVALE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJ I.V OU PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJ IV OU POUR PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE A DILUER P/PERF IV",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN AMPOULE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN SERING. PREREMPL. IM/IV",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN SERING. PREREMPL. SC/IM/IV",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN SERINGUE PRE REMPLIE A DOSE UNIQUE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN SERINGUE PREREMLIE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN STYLO PRE-REMPLIE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE EN STYLO PREREMPLI KWIKPEN",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE HUILEUSE IM",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE I.M, I.V LENTE/PERFUSION OU INTRARECTALE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IM ET BUVABLE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IM IV ET RECTALE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IM/IV ET RECTALE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IM/IV OU PERF",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IM/IV ou S/C ou Voie MEdullaire",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IM/IV/RECTAL",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IM/IV/SC",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE INTRA",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE INTRAVITREENNE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IV ET IM OU PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IV LENTE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IV/ POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IV/SC",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE IV/SC EN SERINGUE PRE REMPLIE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE P/PERF IV OU P/INJ DS DIALYSEUR",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE PAR VOIE IM/IV OU PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE PAR VOIE IV LENTE ET IM",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE POIUR PERF INTR",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE POUR PERFUSION I.M/I.V",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE S/C PROFONDE A LIBERATION PROLONGEE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE SAUF IV",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC EN CARTOUCHE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC/IV",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE SC/IV ET INTRAVASCULAIRE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE SOUS CUTANEE EN STYLO PREREMLIE MULTIDOSES",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE STERILE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE. EN SERING. PREREMPL.",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE. P. PERF.",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE. P. PERF. IV OU EN INJ. DANS LE DIALYSEUR",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE. P. PERF. IV OU SC",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE. PERF. IV",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE. PERF. IV OU EN INJ. DANS LE DIALYSEUR",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION INJECTABLE/PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION POUR HEMODIALYSE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION POUR INHALATION PAR NEBULISEUR",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION POUR INHALATION PAR NEBULISEUR EN AMPOULE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION POUR INJ S/C",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION POUR INJECTABLE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION POUR INJECTION IM OU IV",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION POUR INJECTION INTRA-VITREENNE EN VIAL",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION POUR PREPARATION INJECTABLE EN IV/IM",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION STERILE INJECTABLE POUR PERFUSION",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION STERILE POUR INSTILLATION OCULAIRE ET AURICULAIRE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION SUBLINGUALE D'UN MELANGE D'EXTRAITS ALLERGENIQUE POUR IMMUNOTHERAPIE SPECIFIQUE",
+      "count": 1
+    },
+    {
+      "label": "SOLUTION à DILUER POUR PERFUSION IV",
+      "count": 1
+    },
+    {
+      "label": "SPRAY INHAL. BUCCALE",
+      "count": 1
+    },
+    {
+      "label": "SPRAY NASAL",
+      "count": 1
+    },
+    {
+      "label": "SUPPOSITOIRE ADULTE",
+      "count": 1
+    },
+    {
+      "label": "SUPPOSITOIRE ENFANT",
+      "count": 1
+    },
+    {
+      "label": "SUPPOSITOIRE NOUR",
+      "count": 1
+    },
+    {
+      "label": "SUPPOSITOIRE NOURRISSON",
+      "count": 1
+    },
+    {
+      "label": "SUPPOSITOIRE VAGINALE",
+      "count": 1
+    },
+    {
+      "label": "SUSP EN PUL NASALE",
+      "count": 1
+    },
+    {
+      "label": "SUSP INJ IM OU LOCALE",
+      "count": 1
+    },
+    {
+      "label": "SUSP INJ LP",
+      "count": 1
+    },
+    {
+      "label": "SUSP NASAL EN SPRAY",
+      "count": 1
+    },
+    {
+      "label": "SUSP P.PULVERISATION NASALE",
+      "count": 1
+    },
+    {
+      "label": "SUSP POUR INHA",
+      "count": 1
+    },
+    {
+      "label": "SUSP POUR PULVERISATION NASALE",
+      "count": 1
+    },
+    {
+      "label": "SUSP. EN SPRAY NASALE",
+      "count": 1
+    },
+    {
+      "label": "SUSP. POUR PULVERISATION NASALE",
+      "count": 1
+    },
+    {
+      "label": "SUSP. RECT.",
+      "count": 1
+    },
+    {
+      "label": "SUSP.INHAL.",
+      "count": 1
+    },
+    {
+      "label": "SUSP.OR.",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION AQUEUSE INJECTABLE",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION BUVABLE +BOUCHON DOSEUR GRADUE",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION BUVABLE EN SACHET",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION BUVABLE EN SACHETS",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION BUVABLE EN STICK UNIDOSE",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION BUVABLE GOÛT MENTHE",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION BUVABLE GTTES",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION INJ S/C EN CARTOUCHE POUR STYLO",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION INJECTABLE A LIBERATION PROLONGEE",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION INJECTABLE/LOCALE",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION NASALE EN SPRAY",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION POUR INHALATION",
+      "count": 1
+    },
+    {
+      "label": "SUSPENSION POUR INSTILLATION ENDOTRACHEOBRONCHIQUE",
+      "count": 1
+    },
+    {
+      "label": "SYSTEME D'ADMINISTRATION VAGINALE",
+      "count": 1
+    },
+    {
+      "label": "SYSTEME DE DIFFUSION INTRA-UTERIN",
+      "count": 1
+    },
+    {
+      "label": "Solution concentrEe pour HEmodialyse ConcentrE acide",
+      "count": 1
+    },
+    {
+      "label": "Solution injectable IM,IV,S/C",
+      "count": 1
+    }
+  ]
+}

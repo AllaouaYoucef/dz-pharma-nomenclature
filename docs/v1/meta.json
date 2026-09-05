@@ -1,0 +1,34 @@
+{
+  "name": "Nomenclature Nationale des Produits Pharmaceutiques - Algerie",
+  "apiVersion": "v1",
+  "edition": "30 JUIN 2026",
+  "sourceFile": "nomenclature-2026-06.csv",
+  "sourceChecksumSha256": "0b6f1cc8afcc512d555815ea695d4fb720cd29787e4eb5216c58dd12724ebddf",
+  "publisher": "Ministere de l'Industrie Pharmaceutique - Direction de la Pharmaco-economie, des Activites Pharmaceutiques et de la Regulation",
+  "generatedAt": "2026-09-05T07:32:28+00:00",
+  "license": "Donnees publiques officielles redistribuees a titre de reference - voir DISCLAIMER.md",
+  "counts": {
+    "medications": 5381,
+    "dci": 1375,
+    "laboratories": 518,
+    "forms": 671,
+    "countries": 49
+  },
+  "endpoints": {
+    "meta": "/v1/meta.json",
+    "all": "/v1/medications.json",
+    "compactIndex": "/v1/medications.min.json",
+    "ndjson": "/v1/medications.ndjson",
+    "csv": "/v1/medications.csv",
+    "byId": "/v1/medications/{id}.json",
+    "dciIndex": "/v1/dci/index.json",
+    "byDci": "/v1/dci/{slug}.json",
+    "laboratoryIndex": "/v1/laboratories/index.json",
+    "byLaboratory": "/v1/laboratories/{slug}.json",
+    "forms": "/v1/forms.json",
+    "countries": "/v1/countries.json",
+    "lists": "/v1/lists.json",
+    "types": "/v1/types.json"
+  },
+  "baseUrl": "https://allaouayoucef.github.io/dz-pharma-nomenclature"
+}
